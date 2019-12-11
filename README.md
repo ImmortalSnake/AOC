@@ -15,7 +15,7 @@ Solutions for day 1 to 5 are missing since I did not save them, but will be publ
 | 8. | [Day - 8](../master/src/day8.py)
 | 9. | [Day - 9](../master/src/day9.py)
 | 10.| [Day - 10](../master/src/day10.py)
-| 11.|
+| 11.| [Day - 11](../master/src/day11.py)
 | 12.|
 | 13.|
 | 14.|
